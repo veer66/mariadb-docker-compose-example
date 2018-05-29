@@ -16,7 +16,7 @@ sudo docker-compose up
 ## Connect
 
 ````
-$ mysql -umyusr -pmyusrpass mydb -h172.19.0.2 
+$ mysql -umyusr -pmyusrpass mydb -hdb
 Welcome to the MariaDB monitor.  Commands end with ; or \g.
 Your MariaDB connection id is 8
 Server version: 10.3.7-MariaDB-1:10.3.7+maria~jessie mariadb.org binary distribution
